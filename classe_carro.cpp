@@ -8,6 +8,11 @@ metodos para imprimir cada dado individualmente.
 Tambem uma funcao principal que utiliza a classe Carro com todos os seus metodos.
 Implementar metodos dentro da classe
 */
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 
 #include<iostream>
 #include<string>
